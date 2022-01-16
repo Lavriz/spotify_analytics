@@ -1,2 +1,2 @@
 # spotify_analytics
-[Website](http://lavriz.pythonanywhere.com/dash/)
+[Website with Spotify Music Analysis](http://lavriz.pythonanywhere.com/dash/)
